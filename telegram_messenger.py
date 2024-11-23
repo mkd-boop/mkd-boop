@@ -18,7 +18,7 @@ def scan_webpage_for_string(url, target_string):
 
           
             
-TOKEN = "7467477662:AAEMXln1brXglSFAlFE9o7li-T4jMCw9scg"
+TOKEN = ''
 url = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
 
 # Example usage:
